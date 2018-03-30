@@ -75,14 +75,3 @@ end
 function fish_greeting
   echo -n ""
 end
-
-# Aliases
-alias ls="ls -GFh"
-alias vscode='open -a "Visual Studio Code"'
-alias chrome='open -a "Google Chrome"'
-alias vpn='open -a "ExpressVPN"'
-alias kindle='open -a "Kindle"'
-alias home="cd ~"
-
-# Notes
-# echo $LINES; and echo $COLUMNS (the `; and` is for example purposes...)
